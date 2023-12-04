@@ -1,0 +1,63 @@
+﻿{
+  "drawMode": "AnyLine",
+  "ignoreOverlappings": false,
+  "moves": 3,
+  "rewards": [
+    {
+      "wordLengh": 3,
+      "reward": 30
+    },
+    {
+      "wordLengh": 4,
+      "reward": 40
+    },
+    {
+      "wordLengh": 5,
+      "reward": 50
+    },
+    {
+      "wordLengh": 6,
+      "reward": 60
+    },
+    {
+      "wordLengh": 7,
+      "reward": 70
+    },
+    {
+      "wordLengh": 8,
+      "reward": 80
+    },
+    {
+      "wordLengh": 9,
+      "reward": 90
+    },
+    {
+      "wordLengh": 10,
+      "reward": 100
+    },
+    {
+      "wordLengh": 11,
+      "reward": 110
+    },
+    {
+      "wordLengh": 12,
+      "reward": 120
+    },
+    {
+      "wordLengh": 13,
+      "reward": 130
+    },
+    {
+      "wordLengh": 14,
+      "reward": 140
+    },
+    {
+      "wordLengh": 15,
+      "reward": 150
+    },
+    {
+      "wordLengh": 16,
+      "reward": 160
+    }
+  ]
+}

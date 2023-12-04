@@ -1,0 +1,41 @@
+﻿{
+  "lines": 5,
+  "columns": 5,
+  "forceCharsAmount": [
+    {
+      "wordLengh": 3,
+      "forceAmount": {
+        "min": 1,
+        "max": 4
+      }
+    },
+    {
+      "wordLengh": 4,
+      "forceAmount": {
+        "min": 1,
+        "max": 2
+      }
+    },
+    {
+      "wordLengh": 5,
+      "forceAmount": {
+        "min": 0,
+        "max": 2
+      }
+    },
+    {
+      "wordLengh": 6,
+      "forceAmount": {
+        "min": 0,
+        "max": 2
+      }
+    },
+    {
+      "wordLengh": 7,
+      "forceAmount": {
+        "min": 0,
+        "max": 1
+      }
+    }
+  ]
+}

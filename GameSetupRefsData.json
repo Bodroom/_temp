@@ -1,0 +1,16 @@
+﻿{
+  "setups": [
+    {
+      "name": "Auto",
+      "gameRules": "GameRulesData_Auto.json",
+      "boardAuto": "BoardAutoData.json",
+      "boardPreset": ""
+    },
+    {
+      "name": "Preset",
+      "gameRules": "GameRulesData_Preset.json",
+      "boardAuto": "",
+      "boardPreset": "BoardPresetData.json"
+    }
+  ]
+}
